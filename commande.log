@@ -1,0 +1,29 @@
+﻿**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20240927200112
+Nom d'utilisateur : DESKTOP-99LQOEP\cools
+Utilisateur runAs :  DESKTOP-99LQOEP\cools
+Nom de la configuration : 
+Ordinateur : DESKTOP-99LQOEP (Microsoft Windows NT 10.0.19045.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\cools\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+ID de processus : 19044
+PSVersion: 5.1.19041.4894
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.4894
+BuildVersion: 10.0.19041.4894
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\cools\Documents\projets\server_arduino_switch\commande.log
+La transcription est maintenant active. Toutes les commandes que vous tapez seront enregistrÃ©es.
+Lorsque vous aurez fini, tapez 'Stop-Transcript' pour arrÃªter l'enregistrement.
+La transcription est maintenant active. Toutes les commandes que vous tapez seront enregistrÃ©es dans : C:\Users\cools\Documents\projets\server_arduino_switch\commande.log
+Lorsque vous aurez fini, tapez 'Stop-Transcript' pour arrÃªter l'enregistrement.
+PS>try { . "c:\Users\cools\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+PS>Erreur de terminaison (Get-PSReadLineKeyHandler) : « Impossible de trouver un paramètre correspondant au nom « Chord ». »
+PS>Erreur de terminaison (Get-PSReadLineKeyHandler) : « Impossible de trouver un paramètre correspondant au nom « Chord ». »
+PS>Erreur de terminaison (Get-PSReadLineKeyHandler) : « Impossible de trouver un paramètre correspondant au nom « Chord ». »
+PS>Erreur de terminaison (Get-PSReadLineKeyHandler) : « Impossible de trouver un paramètre correspondant au nom « Chord ». »
+]633;A]633;P;Cwd=C:\x5cUsers\x5ccools\x5cDocuments\x5cprojets\x5cserver_arduino_switchC:\Users\cools\Documents\projets\server_arduino_switch> ]633;B
